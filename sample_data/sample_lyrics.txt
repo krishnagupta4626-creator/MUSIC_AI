@@ -1,0 +1,276 @@
+================================================================================
+MUSIC-TO-VISUAL NARRATIVE GENERATOR - SAMPLE LYRICS DATASET
+Academic Mini-Project (B.Tech CSE - AI & ML)
+================================================================================
+
+This file contains 5 complete, professionally structured lyric sheets spanning
+the five primary musical moods required for comprehensive project testing:
+1. Romantic: "Golden Horizons"
+2. Sad: "Echoes of Rain"
+3. Happy: "Sunburst Carnival"
+4. Motivational: "Rise Above the Ashes"
+5. Suspenseful: "Midnight Labyrinth"
+
+--------------------------------------------------------------------------------
+PRESET 1: ROMANTIC - "Golden Horizons"
+Artist: Aria & The Sunset Strings
+Tempo: ~74 BPM | Key: D Major | Texture: Acoustic Strings & Soft Percussion
+--------------------------------------------------------------------------------
+[Intro]
+Gentle breeze upon the tide
+Whispering secrets we cannot hide
+
+[Verse 1]
+Amber shadows paint the quiet shore
+I have never felt this peace before
+Your fingers brush against my cold right hand
+Tracing promises upon the silver sand
+We watch the waves erase the weary day
+All our doubts and hesitations fade away
+
+[Chorus]
+Under golden horizons, my heart finds home
+With you beside me, I will never roam
+Every heartbeat singing soft and clear
+In this golden twilight, there is nothing left to fear
+Love is the shelter where we belong
+Our silent story turned into a song
+
+[Verse 2]
+Candlelight flickers in your smiling eyes
+Reflecting miracles beneath the evening skies
+The world outside can rush and spin around
+In this tender sanctuary, love is found
+No spoken words are needed in this space
+Just the warmth of your unspoken grace
+
+[Bridge]
+Even when storms gather over the sea
+Your steady beacon will rescue me
+Through every season, through every year
+I will hold your promise near
+
+[Final Chorus]
+Under golden horizons, our spirits soar
+I have found the love I was longing for
+Every heartbeat singing soft and clear
+In this golden twilight, there is nothing left to fear
+Love is the shelter where we belong
+Forever woven in our endless song
+
+[Outro]
+Golden horizons in the falling night
+Holding you close in the amber light
+Forever safe... forever here.
+
+
+--------------------------------------------------------------------------------
+PRESET 2: SAD - "Echoes of Rain"
+Artist: Julian Vance
+Tempo: ~64 BPM | Key: C Minor | Texture: Minor Piano & Solo Cello
+--------------------------------------------------------------------------------
+[Intro]
+Raindrops tapping on the windowpane
+Calling back the phantom of your name
+
+[Verse 1]
+Empty hallway, dust upon the floor
+Your old winter coat behind the door
+I pour two cups of tea out of routine
+Caught inside the shadows of what might have been
+The clock is ticking slow against the wall
+I wait for footsteps that will never fall
+
+[Chorus]
+Lost in the echoes of the falling rain
+Tracing every contour of this silent pain
+You took the sunlight when you walked away
+Leaving only hollow shades of grey
+Loneliness is carving cold marks on my chest
+Searching for a memory where I can rest
+
+[Verse 2]
+Faded photographs in yellow frames
+Whispering the quiet guilt that no one blames
+I walk across the bridge where we first spoke
+Watching all our promises go up in smoke
+The river carries tears into the dark
+A frozen winter in a barren park
+
+[Bridge]
+Did you forget the vows we made in May?
+Or was it easy just to turn and drift away?
+Now the silence screams louder than a crowd
+Wrapped inside this suffocating cloud
+
+[Final Chorus]
+Lost in the echoes of the cold grey rain
+Nothing seems to wash away the burning pain
+You took the sunlight when you walked away
+Leaving only hollow shades of grey
+Loneliness has made this house its shrine
+Yearning for the days when you were mine
+
+[Outro]
+The raindrops taper to a solemn sigh
+An empty room under an empty sky
+Goodbye... goodbye.
+
+
+--------------------------------------------------------------------------------
+PRESET 3: HAPPY - "Sunburst Carnival"
+Artist: The Brightline Collective
+Tempo: ~124 BPM | Key: G Major | Texture: Upbeat Horns & Funky Guitars
+--------------------------------------------------------------------------------
+[Intro]
+Wake up the morning, let the colors run!
+Open up the curtains to the blazing sun!
+
+[Verse 1]
+Cobblestone avenue buzzing with the crowd
+Brass horns blasting sweet and loud
+Bicycles ringing, children in the street
+Catching that irresistible summer heat
+Throw your heavy coats and doubts away
+Today is our festival, our golden day!
+
+[Chorus]
+Step into the sunburst, dance along the street
+Feel the rhythm jumping underneath your feet!
+Colors flying high in the sapphire sky
+Nothing gonna bring us down, oh my my!
+Laugh out loud and let the laughter shine
+Everything is joyful, everything divine!
+
+[Verse 2]
+Sparkling lemonade, confetti in the hair
+Cotton candy sweetness floating through the air
+Strangers exchanging giant friendly grins
+This is where the magic of the world begins
+From the rooftops to the market square
+Joy is overflowing everywhere!
+
+[Bridge]
+No yesterday can hold us back today
+We are alive and we are here to play!
+Turn the speakers up and feel the groove
+Got the whole wide city on the move!
+
+[Final Chorus]
+Step into the sunburst, dance along the street
+Feel the rhythm jumping underneath your feet!
+Colors flying high in the sapphire sky
+Nothing gonna bring us down, oh my my!
+Laugh out loud and let the laughter shine
+Everything is joyful, everything divine!
+
+[Outro]
+Sunburst carnival, shining bright!
+Dancing all the way into the starry night!
+Yeah! Let's celebrate!
+
+
+--------------------------------------------------------------------------------
+PRESET 4: MOTIVATIONAL - "Rise Above the Ashes"
+Artist: Vanguard Titan
+Tempo: ~138 BPM | Key: D Minor / F Major | Texture: Heavy Drums & Power Guitars
+--------------------------------------------------------------------------------
+[Intro]
+In the quiet ruins of the fight
+A burning spark ignites the darkest night
+
+[Verse 1]
+Scars upon my skin tell where I have bled
+Every cruel defeat that the doubters said
+They built their walls of iron and of stone
+Left me stranded in the dark alone
+They thought the fire was extinguished in the cold
+But legends are forged when steel is bold!
+
+[Chorus]
+Rise above the ashes, stand against the storm!
+From the shattered pieces, a champion is born!
+With thunder in our veins and lightning in our eyes
+We will tear through the shadows and reclaim the skies!
+No surrender, no retreat today
+We carve our own destiny, we forge the way!
+
+[Verse 2]
+Every stumble taught my feet to run
+Every eclipse gave birth to a stronger sun
+Feel the power surging deep within the chest
+We will not settle until we are the best
+The mountain peak is towering ahead
+We walk where angels feared to tread!
+
+[Bridge]
+Break the chains that held your courage down!
+Claim the triumph, claim the victor's crown!
+Let the world hear the roar of our resolve
+Watch every obstacle dissolve!
+
+[Final Chorus]
+Rise above the ashes, stand against the storm!
+From the shattered pieces, a champion is born!
+With thunder in our veins and lightning in our eyes
+We will tear through the shadows and reclaim the skies!
+No surrender, no retreat today
+We carve our own destiny, we forge the way!
+
+[Outro]
+Unbroken... unstoppable... alive!
+Through the trial and the flame, we thrive!
+Rise... RISE!
+
+
+--------------------------------------------------------------------------------
+PRESET 5: SUSPENSEFUL - "Midnight Labyrinth"
+Artist: Cipher & The Noir Syndicate
+Tempo: ~96 BPM | Key: F# Minor | Texture: Dark Synthesizers & Sub-bass Drone
+--------------------------------------------------------------------------------
+[Intro]
+A clock ticks backward in the neon mist
+A name erased from an encrypted list
+
+[Verse 1]
+Footsteps echo on the wet asphalt
+A flickering streetlamp buzzes to a halt
+A trench coat disappears behind the steel
+Wondering what is counterfeit and what is real
+The surveillance cameras pivot to and fro
+Secrets hidden where the searchlights never go
+
+[Chorus]
+Lost inside the midnight labyrinth of lies
+Watching every shadow through suspicious eyes
+A whisper on the wire, a glitch upon the screen
+Trapped between the danger and the truth unseen
+Tick-tock, the cipher starts to unwind
+What did the agency leave behind?
+
+[Verse 2]
+A heavy iron door creaks open slow
+Revealing blueprints in a green phosphor glow
+Documents marked classified and burned in haste
+Not a single second left to waste
+A siren wails three blocks away
+The hunter and the prey begin to play
+
+[Bridge]
+Breath held tight inside the ventilation shaft
+They never calculated what we planned or drafted
+A sudden laser dot across the steel frame
+No one survives who reveals the name
+
+[Final Chorus]
+Lost inside the midnight labyrinth of lies
+Watching every shadow through suspicious eyes
+A whisper on the wire, a glitch upon the screen
+Trapped between the danger and the truth unseen
+Tick-tock, the cipher starts to unwind
+What did the agency leave behind?
+
+[Outro]
+The red light blinks on the security gate
+Ten seconds remain before it is too late
+Cut the red wire... run into the dark.
